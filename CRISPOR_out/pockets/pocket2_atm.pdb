@@ -1,0 +1,58 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 29.0512
+HEADER 1  - Drug Score                        : 0.0363
+HEADER 2  - Number of V. Vertices             :    47
+HEADER 3  - Mean alpha-sphere radius          : 4.2072
+HEADER 4  - Mean alpha-sphere SA              : 0.4511
+HEADER 5  - Mean B-factor                     : 0.6179
+HEADER 6  - Hydrophobicity Score              : 15.3333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Volume Score                      : 3.3889
+HEADER 9  - Real volume (approximation)       : 543.7875
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 9.4545
+HEADER 12 - Number of apolar alpha sphere     :    11
+HEADER 13 - Proportion of apolar alpha sphere : 0.2340
+ATOM  10823  NH1 ARG A1060     158.972  97.623 153.202  1.00277.60           N 0
+ATOM  10631   CA PHE A1037     154.232  94.967 154.897  1.00307.93           C 0
+ATOM  10589    O GLU A1028     160.050  89.600 157.070  1.00344.64           O 0
+ATOM  10582   CG GLN A1027     161.078  92.432 158.419  1.00342.27           C 0
+ATOM  10586    N GLU A1028     158.147  90.651 158.648  1.00344.64           N 0
+ATOM  10585  NE2 GLN A1027     163.063  92.534 157.042  1.00342.27           N 0
+ATOM  10635    N PHE A1038     154.793  95.994 157.026  1.00327.12           N 0
+ATOM  10634   CB PHE A1037     154.689  96.247 154.178  1.00307.93           C 0
+ATOM  10583   CD GLN A1027     162.562  92.696 158.259  1.00342.27           C 0
+ATOM  10655  CE2 TYR A1039     158.860  99.264 158.933  1.00318.70           C 0
+ATOM  10594    O ILE A1029     159.846  87.490 154.627  1.00356.06           O 0
+ATOM  10831   CD PRO A1061     164.201  94.724 151.002  1.00254.26           C 0
+ATOM  10597   CA GLY A1030     162.361  87.244 153.541  1.00362.69           C 0
+ATOM  10830   CG PRO A1061     164.712  93.468 150.369  1.00254.26           C 0
+ATOM  10600    N LYS A1031     161.094  86.566 151.591  1.00366.07           N 0
+ATOM  10855  OE1 GLU A1064     160.667  94.888 147.697  1.00264.28           O 0
+ATOM  10824  NH2 ARG A1060     158.526  96.914 151.066  1.00277.60           N 0
+ATOM  10387   NZ LYS A1000     157.982  94.090 147.532  1.00233.10           N 0
+ATOM  10822   CZ ARG A1060     159.245  97.648 151.906  1.00277.60           C 0
+ATOM  10819   CG ARG A1060     162.285  98.486 152.820  1.00277.60           C 0
+ATOM  10614   CB THR A1033     156.212  88.526 153.628  1.00341.04           C 0
+ATOM  10628    O TYR A1036     153.893  93.659 152.407  1.00297.34           O 0
+ATOM  10818   CB ARG A1060     163.255  98.104 151.704  1.00277.60           C 0
+ATOM  10623    O LYS A1035     152.794  90.784 152.942  1.00321.19           O 0
+ATOM  10624   CB LYS A1035     152.070  90.505 156.181  1.00321.19           C 0
+ATOM  10630    N PHE A1037     153.002  94.449 154.314  1.00307.93           N 0
+ATOM  10633    O PHE A1037     152.999  94.635 156.930  1.00307.93           O 0
+ATOM  10590   CB GLU A1028     156.711  89.291 157.214  1.00344.64           C 0
+ATOM  10560   CB ALA A1023     152.896  91.303 160.082  1.00356.85           C 0
+ATOM  10632    C PHE A1037     153.954  95.194 156.378  1.00307.93           C 0
+ATOM  10639   CB PHE A1038     155.586  96.464 159.308  1.00327.12           C 0
+ATOM  10575    O GLU A1026     156.672  91.780 161.473  1.00336.09           O 0
+ATOM  10578   CA GLN A1027     159.106  92.368 160.058  1.00342.27           C 0
+ATOM  10581   CB GLN A1027     160.581  92.705 159.828  1.00342.27           C 0
+ATOM  10653  CD2 TYR A1039     157.936  99.579 157.956  1.00318.70           C 0
+ATOM  10569    O SER A1025     154.674  93.221 163.158  1.00345.21           O 0
+ATOM  10856  OE2 GLU A1064     162.431  95.908 148.524  1.00264.28           O 0
+TER
+END

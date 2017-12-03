@@ -1,0 +1,165 @@
+Source: query_1fr6A.pdb
+[AAKTEQQIADIVNRTITPLMQEQAIPGMAVAIIYQGKPYYFTWGKADIANNRPVTQQTLFELGSVSKTFNGVLGGDAIARGEIKLSDPVTQYWPELTGKQWQGISLLHLATYTAGGLPLQVPDDVTDKAALLRFYQNWQPQWAPGAKRLYANSSIGLFGALAVKPSGMSYEEAMSKRVLHPLKLAHTWITVPQSEQKDYAWGYREGKPVHVSPGQLDAEAYGVKSSVIDMTRWVQANMDASQVQEKTLQQGIELAQSRYWRIGDMYQGLGWEMLNWPVKADSIISGSDSKVALAALPAVEVNPPAPAVKASWVHKTGSTGGFGSYVAFVPEKNLGIVMLANKSYPNPVRVEAAWRILEKL]
+[                   |     |                                                                                                                                                                              |      |                                                                                                                                      ||                ]
+
+Target: 1a15.pdb
+Match: 0
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++||+++++++++++++++++++++++++++|+++|+++++]
+
+Match: 1
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|+++++|+|+++++++++++++++++++++++++|+++|+++++]
+
+Match: 2
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++||++++++|+|++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 3
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++||++++++|+|++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 4
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++||++++++|+|++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 5
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++|+++|+++|++++++++++++++++|+|++++++++++|++++++++++++++]
+
+Match: 6
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++++++++++++++++++++|++++++++++++++++|++++++|||++++]
+
+Match: 7
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|++++++++++++++|++++++++++|++|+++++++++++]
+
+Match: 8
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|+++++|+|++++++++++++++++++++++++++|++|+++++]
+
+Match: 9
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++||+++++++++++++++++++++++++++|+++|+++++]
+
+Match: 10
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++||++++++++++++++++++++|+|+++++||+++++++++++++++++++++++++++]
+
+Match: 11
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+|+++++|+|++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 12
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|++|+++++++++++++++++++++|+|+++++++++++++]
+
+Match: 13
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|+++|++++++++++++++++++++|+|+++++++++++++]
+
+Match: 14
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++|++++++++|+++++++++++++++++++|+++|+++++]
+
+Match: 15
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++|+++|+++|++++++++++++++++|+|+++++++++++|+++++++++++++]
+
+Match: 16
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|++++++|+|++++++++++++++++++++++++|+++|+++++++|+]
+
+Match: 17
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+|+++++|+|++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 18
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|+++++++++++++||++++++++++++++++++|+++|+++++]
+
+Match: 19
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|+++|++++++++++++++++++++||++++++++++++++]
+
+Match: 20
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++|++|+++++++++++++++++++++++++|+++|+++++]
+
+Match: 21
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|++|+++++++++++++++++++++||++++++++++++++]
+
+Match: 22
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+++|+++|++++++++++++++|+++++++++++|++++|++++++++]
+
+Match: 23
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++|+|+++++|++++++++++++++++++++++++++|+++++++++++|+]
+
+Match: 24
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++||++++++++++++++++++++|+|++++++|+++++++++++|+++++++++++++++]
+
+Match: 25
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++++++++++|++||+++++++||+++++++++++++++++++++++++++]
+
+Match: 26
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|+++++|+|+++++++++++++++++++++++++|+++|+++++]
+
+Match: 27
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++||+++++++++++++++++++++++++++|+++|+++++]
+
+Match: 28
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[++++++++++++++++++|+++|++++||+++++++++++++++++++++++++++|+++|+++++]
+
+Match: 29
+[KPVSLSYRCPCRFFESHVARANVKHLKILNTPACALQIVARLKNNNRQVCIDPKLKWIQEYLEKAL]
+[+++++++++++++++++++++++++++++++++++|++++++++++++++++|+++++||||++++]
+
+Best Structural Match: 100.000000% of source pattern
+Best number of structural source matches: 6
+Best number of structural target matches: 6
+Source size: 6
+Target size: 124
+Number of unmatched Source residues in best match: 0
+RMSD of best match: 1.311474
+Execution time: 1.324697 seconds
+
+
+Source 0, Match 0: (20M, 19A) (26P, 23V) (201W, 29L) (208P, 28I) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 1: (20M, 19A) (26P, 23V) (201W, 31T) (208P, 29L) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 2: (20M, 65A) (26P, 53P) (201W, 18V) (208P, 19A) (343S, 26L) (344Y, 28I) 
+Source 0, Match 3: (20M, 65A) (26P, 53P) (201W, 19A) (208P, 18V) (343S, 26L) (344Y, 28I) 
+Source 0, Match 4: (20M, 65A) (26P, 53P) (201W, 18V) (208P, 19A) (343S, 26L) (344Y, 28I) 
+Source 0, Match 5: (20M, 41R) (26P, 39V) (201W, 14F) (208P, 52D) (343S, 18V) (344Y, 22N) 
+Source 0, Match 6: (20M, 36L) (26P, 53P) (201W, 61Y) (208P, 60E) (343S, 62L) (344Y, 61Y) 
+Source 0, Match 7: (20M, 22N) (26P, 18V) (201W, 55L) (208P, 52D) (343S, 26L) (344Y, 41R) 
+Source 0, Match 8: (20M, 19A) (26P, 23V) (201W, 31T) (208P, 29L) (343S, 61Y) (344Y, 58I) 
+Source 0, Match 9: (20M, 19A) (26P, 23V) (201W, 29L) (208P, 28I) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 10: (20M, 32P) (26P, 30N) (201W, 38I) (208P, 39V) (343S, 9C) (344Y, 8R) 
+Source 0, Match 11: (20M, 65A) (26P, 53P) (201W, 18V) (208P, 20R) (343S, 26L) (344Y, 28I) 
+Source 0, Match 12: (20M, 22N) (26P, 18V) (201W, 51I) (208P, 53P) (343S, 26L) (344Y, 29L) 
+Source 0, Match 13: (20M, 22N) (26P, 18V) (201W, 51I) (208P, 53P) (343S, 26L) (344Y, 30N) 
+Source 0, Match 14: (20M, 19A) (26P, 23V) (201W, 37Q) (208P, 28I) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 15: (20M, 41R) (26P, 39V) (201W, 14F) (208P, 53P) (343S, 18V) (344Y, 22N) 
+Source 0, Match 16: (20M, 65A) (26P, 53P) (201W, 57W) (208P, 19A) (343S, 26L) (344Y, 28I) 
+Source 0, Match 17: (20M, 65A) (26P, 53P) (201W, 20R) (208P, 18V) (343S, 26L) (344Y, 28I) 
+Source 0, Match 18: (20M, 19A) (26P, 23V) (201W, 37Q) (208P, 38I) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 19: (20M, 22N) (26P, 18V) (201W, 51I) (208P, 52D) (343S, 26L) (344Y, 30N) 
+Source 0, Match 20: (20M, 19A) (26P, 23V) (201W, 31T) (208P, 28I) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 21: (20M, 22N) (26P, 18V) (201W, 51I) (208P, 52D) (343S, 26L) (344Y, 29L) 
+Source 0, Match 22: (20M, 22N) (26P, 18V) (201W, 58I) (208P, 53P) (343S, 26L) (344Y, 41R) 
+Source 0, Match 23: (20M, 65A) (26P, 53P) (201W, 18V) (208P, 20R) (343S, 26L) (344Y, 26L) 
+Source 0, Match 24: (20M, 32P) (26P, 30N) (201W, 51I) (208P, 39V) (343S, 9C) (344Y, 8R) 
+Source 0, Match 25: (20M, 30N) (26P, 26L) (201W, 29L) (208P, 30N) (343S, 39V) (344Y, 38I) 
+Source 0, Match 26: (20M, 19A) (26P, 23V) (201W, 31T) (208P, 29L) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 27: (20M, 19A) (26P, 23V) (201W, 28I) (208P, 29L) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 28: (20M, 19A) (26P, 23V) (201W, 28I) (208P, 29L) (343S, 61Y) (344Y, 57W) 
+Source 0, Match 29: (20M, 36L) (26P, 53P) (201W, 59Q) (208P, 60E) (343S, 62L) (344Y, 61Y) 

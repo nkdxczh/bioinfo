@@ -1,0 +1,13 @@
+MASH format developed by Brian Chen, 2007, Rice University
+Original Coordinates: [1ab9.pdb]
+###############################################################################
+###############################################################################
+POINTNUM 4
+ATOM    388  CA  HIS A  57      33.302   3.234  32.120  1.00 12.22           C  
+RANK 1 H
+ATOM    730  CA  ASP A 102      33.129   9.651  32.811  1.00 12.13           C  
+RANK 2 D
+ATOM   1384  CA  SER A 195      25.541   3.538  35.252  1.00 12.19           C  
+RANK 3 S
+ATOM   1346  CA  SER A 189      20.402   5.466  45.640  1.00 13.35           C  
+RANK 4 STDG

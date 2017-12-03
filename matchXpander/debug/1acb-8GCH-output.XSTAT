@@ -1,0 +1,50 @@
+Source: 1ab9.pdb
+[FCHCGSDMDS]
+[||||||||||]
+
+Target: ./1EQ9.pdb
+Match: 0
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||+|+|++++++++++++++|+++|+++++++++++++++++++++++]
+
+Match: 1
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||+|++|+++++++++++++|+++|+++++++++++++++++++++++]
+
+Match: 2
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++++++++|++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||+|+|++++++++++++++|+++++++++++++++++++++++++++]
+
+Match: 3
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+||+|++++++++++++++++|+++|+++++++++++++++++++++++]
+
+Match: 4
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+|+|++++++++++++++|+++|+++++++++++++++++++++++]
+
+Match: 5
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++||+|++++++++++++++++|+++|+++++++++++++++++++++++]
+
+Match: 6
+[IVGGKDAPVGKYPYQVSLRLSGSHRCGASILDNNNVLTAAHCVDLNRKVHVGTNYLSESGDVYDVEDAVVNKNYDDFLLRNDVALVHLTNPIKFNDLVQPIKLSTNDEDLESNPCTLTGWGSTRLGGNTPNALQEIELIVHPQKQCERDWRVIDSHICTLTKRGGACHGDSGGPLVANGAQIGIVSFGSPCALGEPDVYTRVSSFVSWINANLK]
+[++++++++++++++++|++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||+|++|+++++++++++++|+++++++++++++++++++++++++++]
+
+Best Structural Match: 63.636364% of source pattern
+Best number of structural source matches: 7
+Best number of structural target matches: 7
+Source size: 11
+Target size: 215
+Number of unmatched Source residues in best match: 4
+RMSD of best match: 4.386884
+Execution time: 0.030000 seconds
+
+
+Source 0, Match 0: (41F, 215F) (42C, 220C) (57H, 192H) (58C, 191C) (59G, 196G) (96S, 39S) (102D, 194D) 
+Source 0, Match 1: (41F, 215F) (42C, 220C) (57H, 192H) (58C, 191C) (59G, 197G) (96S, 32S) (102D, 194D) 
+Source 0, Match 2: (41F, 215F) (42C, 191C) (57H, 192H) (58C, 42C) (59G, 196G) (96S, 39S) (102D, 194D) 
+Source 0, Match 3: (41F, 215F) (42C, 220C) (57H, 192H) (58C, 191C) (59G, 189G) (96S, 32S) (102D, 194D) 
+Source 0, Match 4: (41F, 215F) (42C, 220C) (57H, 192H) (58C, 42C) (59G, 196G) (96S, 39S) (102D, 194D) 
+Source 0, Match 5: (41F, 215F) (42C, 191C) (57H, 192H) (58C, 220C) (59G, 147G) (96S, 39S) (102D, 194D) 
+Source 0, Match 6: (41F, 215F) (42C, 191C) (57H, 192H) (58C, 42C) (59G, 197G) (96S, 32S) (102D, 194D) 

@@ -1,0 +1,15 @@
+Source: anti-CRISPOR.pdb
+[MNINDLIREIKNKDYTVKLSGTDSNSITQLIIRVNNDGNEYVISESENESIVEKFISAFKNGWNQEYEDEEEFYNDMQTITLKSEL]
+[       |  |  |                      |  |      |                  | ||  |          |   ]
+
+Target: blist
+Best Structural Match: 0.000000% of source pattern
+Best number of structural source matches: 0
+Best number of structural target matches: 0
+Source size: 11
+Target size: 0
+Number of unmatched Source residues in best match: 11
+RMSD of best match: N/A (no matches)
+Execution time: 0.015612 seconds
+
+

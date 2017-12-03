@@ -1,0 +1,101 @@
+#################################################################################
+#	Simple gnu Makefile for VC++ users, by Brian Chen
+#
+#	X =  is a field being set
+#	$(X) is a defined field
+#
+#	notes:
+#		-new following line must be delimited with <TAB> and not spaces.
+#################################################################################
+
+
+#################################################################################
+# Names and flags													#
+#################################################################################
+
+CC = gcc
+CXX = g++
+CFLAGS = -g -Wall -DYYDEBUG -Wno-deprecated
+
+#directory containing source
+SOURCEDIR = source/
+
+#directory for object files
+OBJECTDIR = object/
+
+#directory for executables and input files
+DEBUGDIR = debug/
+
+#name of executable
+EXENAME = matchXpander
+
+#Standard Affix files, for VC++ projects
+STDAFX = $(SOURCEDIR)StdAfx.cpp
+
+#executable path
+EXEPATH = $(DEBUGDIR)$(EXENAME)
+
+#################################################################################
+# Define SUPPORT_OBJS to be any .o files that must be linked in with the	#
+# final compiler.								#
+#################################################################################
+
+C_OBJS = \
+$(OBJECTDIR)set.o \
+$(OBJECTDIR)prime.o
+
+SUPPORT_OBJS = \
+$(OBJECTDIR)ActiveList.o \
+$(OBJECTDIR)AlignNode.o \
+$(OBJECTDIR)AtomList.o \
+$(OBJECTDIR)GATenv.o \
+$(OBJECTDIR)FATparser.o \
+$(OBJECTDIR)GatOutput.o \
+$(OBJECTDIR)HierarchialController.o \
+$(OBJECTDIR)PdbAtom.o \
+$(OBJECTDIR)pdbParser.o \
+$(OBJECTDIR)PriorityStack.o \
+$(OBJECTDIR)StatOutput.o \
+$(OBJECTDIR)StdAfx.o \
+$(OBJECTDIR)TargetGrid.o \
+$(OBJECTDIR)TermList.o \
+$(OBJECTDIR)aminoAcid.o \
+$(OBJECTDIR)atomBag.o \
+$(OBJECTDIR)caList.o \
+$(OBJECTDIR)funclib.o \
+$(OBJECTDIR)main.o \
+$(OBJECTDIR)mathlib.o \
+$(OBJECTDIR)_lalgebra.o \
+$(OBJECTDIR)BatchList.o \
+$(OBJECTDIR)TriangleList.o \
+$(OBJECTDIR)LatticeHash.o \
+$(OBJECTDIR)SeedFinder.o \
+$(OBJECTDIR)EdgeSet.o \
+$(OBJECTDIR)Execution.o \
+$(OBJECTDIR)Motif.o \
+$(OBJECTDIR)BitFileProcessing.o \
+$(OBJECTDIR)MASHparser.o \
+
+#################################################################################
+# Define final output here with lowest level dependancies (should be automatic)	#
+#################################################################################
+
+$(EXEPATH): $(SUPPORT_OBJS) $(C_OBJS)
+	$(CXX) $(CFLAGS) -o $(EXEPATH) $(SUPPORT_OBJS) $(C_OBJS) -lm
+
+#################################################################################
+# Dependencies of .o files							#
+#################################################################################
+
+$(SUPPORT_OBJS): $(OBJECTDIR)%.o: $(SOURCEDIR)%.cpp $(STDAFX)
+	$(CXX) -c $(CFLAGS) $< -o $@
+
+$(C_OBJS): $(OBJECTDIR)%.o: $(SOURCEDIR)%.c $(STDAFX)
+	$(CC) -c $(CFLAGS) $< -o $@
+
+#################################################################################
+# Cleaning option for deleting old object files					#
+#################################################################################
+
+clean:
+	rm -f $(OBJECTDIR)*.o $(EXEPATH)

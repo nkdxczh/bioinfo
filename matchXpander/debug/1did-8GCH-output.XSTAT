@@ -1,0 +1,55 @@
+Source: 1ab9.pdb
+[HDFW]
+[||||]
+
+Target: 8GCH.pdb
+Match: 0
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++|++++++++++|++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 1
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++++++++|++++|++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 2
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[+++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++|++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 3
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++|++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 4
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++++++++++++++|+++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 5
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[+++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 6
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++++++++++++|+++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 7
+[CGVPAIQPVLSIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYNTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAA]
+[++++++++++++++++++++++++++++++++++++|+++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Best Structural Match: 100.000000% of source pattern
+Best number of structural source matches: 5
+Best number of structural target matches: 5
+Source size: 5
+Target size: 238
+Number of unmatched Source residues in best match: 0
+RMSD of best match: 4.182588
+Execution time: 0.010000 seconds
+
+
+Source 0, Match 0: (53H, 40H) (56D, 153D) (93F, 71F) (136W, 29W) (182K, 202K) 
+Source 0, Match 1: (53H, 40H) (56D, 35D) (93F, 71F) (136W, 141W) 
+Source 0, Match 2: (53H, 40H) (56D, 64D) (93F, 71F) (136W, 141W) 
+Source 0, Match 3: (53H, 57H) (56D, 102D) (93F, 89F) 
+Source 0, Match 4: (53H, 57H) (56D, 102D) (93F, 41F) 
+Source 0, Match 5: (53H, 40H) (56D, 194D) (93F, 71F) 
+Source 0, Match 6: (53H, 57H) (56D, 194D) (93F, 39F) 
+Source 0, Match 7: (53H, 57H) (56D, 194D) (93F, 41F) 

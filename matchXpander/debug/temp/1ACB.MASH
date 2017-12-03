@@ -1,0 +1,27 @@
+MASH format developed by Brian Chen, 2007, Rice University
+Original Coordinates: [1ab9.pdb]
+###############################################################################
+###############################################################################
+POINTNUM 11
+ATOM    285  CA  PHE E  41       9.551   7.420   8.306  1.00 15.03           C  
+RANK 1 F
+ATOM    296  CA  CYS E  42       8.358   5.120  11.021  1.00 15.50           C  
+RANK 2 C
+ATOM    402  CA  HIS E  57       1.586  10.520  15.243  1.00 26.68           C  
+RANK 3 H
+ATOM    412  CA  CYS E  58       3.311   8.712  12.367  1.00 12.30           C  
+RANK 4 C
+ATOM    418  CA  GLY E  59       0.358   9.978  10.222  1.00 26.52           C  
+RANK 5 G
+ATOM    699  CA  SER E  96      -1.832  15.773  19.072  1.00 38.54           C  
+RANK 6 S
+ATOM    744  CA  ASP E 102      -0.574   7.488  20.528  1.00 12.80           C  
+RANK 7 D
+ATOM   1381  CA  MET E 192      14.337   9.692  14.907  1.00 25.59           C  
+RANK 8 M
+ATOM   1393  CA  ASP E 194      12.188   4.526  15.624  1.00 17.53           C  
+RANK 9 D
+ATOM   1401  CA  SER E 195       8.615   5.893  16.271  1.00 16.11           C  
+RANK 10 S
+ATOM   1533  CA  SER E 214       6.484   7.669  20.890  1.00 12.44           C  
+RANK 11 S

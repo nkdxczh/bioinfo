@@ -1,0 +1,15 @@
+Source: query_1fr6A.pdb
+[AAKTEQQIADIVNRTITPLMQEQAIPGMAVAIIYQGKPYYFTWGKADIANNRPVTQQTLFELGSVSKTFNGVLGGDAIARGEIKLSDPVTQYWPELTGKQWQGISLLHLATYTAGGLPLQVPDDVTDKAALLRFYQNWQPQWAPGAKRLYANSSIGLFGALAVKPSGMSYEEAMSKRVLHPLKLAHTWITVPQSEQKDYAWGYREGKPVHVSPGQLDAEAYGVKSSVIDMTRWVQANMDASQVQEKTLQQGIELAQSRYWRIGDMYQGLGWEMLNWPVKADSIISGSDSKVALAALPAVEVNPPAPAVKASWVHKTGSTGGFGSYVAFVPEKNLGIVMLANKSYPNPVRVEAAWRILEKL]
+[                   |     |                                                                                                                                                                              |      |                                                                                                                                      ||                ]
+
+Target: foo.pdb
+Best Structural Match: 0.000000% of source pattern
+Best number of structural source matches: 0
+Best number of structural target matches: 0
+Source size: 6
+Target size: 1
+Number of unmatched Source residues in best match: 6
+RMSD of best match: N/A (no matches)
+Execution time: 0.370000 seconds
+
+

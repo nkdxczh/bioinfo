@@ -1,0 +1,165 @@
+Source: 8tlnTEST-
+[MELY]
+[||||]
+
+Target: pdb1ga0A.pdb
+Match: 0
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++++||+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++|]
+
+Match: 1
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++|++|++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 2
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++|+++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 3
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++++++|++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 4
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++]
+
+Match: 5
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++|]
+
+Match: 6
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++|++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++|]
+
+Match: 7
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||++++++|++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 8
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++|+++++++++++++++++++++++++++|++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 9
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++|++++++++++|+++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+|++++++++]
+
+Match: 10
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++|++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++|+++++|]
+
+Match: 11
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++|+++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++|++|+++++++]
+
+Match: 12
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||++++++|++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 13
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++|+++++|+++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 14
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+||++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 15
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++]
+
+Match: 16
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++|+||+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++|]
+
+Match: 17
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 18
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++]
+
+Match: 19
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 20
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 21
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++|+++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 22
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++|++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++|+++++|]
+
+Match: 23
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+|++++|++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 24
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++|+++++|]
+
+Match: 25
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 26
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++||+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 27
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|||+++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Match: 28
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[+++++++++++++++++++++++++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|+|++++++++++++++|+++++|]
+
+Match: 29
+[PVSEKQLAEVVANTVTPLMKAQSVPGMAVAVIYQGKPHYYTFGKADIAANKPVTPQTLFELGSISKTFTGVLGGDAIARGEISLDDPVTRYWPQLTGKQWQGIRMLDLATYTAGGLPLQVPDEVTDNASLLRFYQNWQPQWKPGTTRLYANASIGLFGALAVKPSGMPYEQAMTTRVLKPLKLDHTWINVPKAEEAHYAWGYRDGKAVRAVRVSPGMLDAQAYGVKTNVQDMANWVMANMAPENVADASLKQGIALAQSRYWRIGSMYQGLGWEMLNWPVEANTVVEGSDSKVALAPLPVAEVNPPAPPVKASWVHKTGSTGGFGSYVAFIPEKQIGIVMLANTSYPNPARVEAAYHILEAL]
+[++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||++++|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]
+
+Best Structural Match: 100.000000% of source pattern
+Best number of structural source matches: 5
+Best number of structural target matches: 5
+Source size: 5
+Target size: 363
+Number of unmatched Source residues in best match: 0
+RMSD of best match: 1.168348
+Execution time: 13.020000 seconds
+
+
+Source 0, Match 0: (120M, 232M) (143E, 30A) (144L, 29V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 1: (120M, 141W) (143E, 113A) (144L, 116L) (157Y, 261Y) (231H, 84L) 
+Source 0, Match 2: (120M, 237M) (143E, 233A) (144L, 32I) (157Y, 61L) (231H, 58L) 
+Source 0, Match 3: (120M, 237M) (143E, 233A) (144L, 31V) (157Y, 61L) (231H, 58L) 
+Source 0, Match 4: (120M, 237M) (143E, 233A) (144L, 338I) (157Y, 61L) (231H, 58L) 
+Source 0, Match 5: (120M, 232M) (143E, 30A) (144L, 229V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 6: (120M, 27M) (143E, 30A) (144L, 229V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 7: (120M, 237M) (143E, 238A) (144L, 245V) (157Y, 256L) (231H, 72L) 
+Source 0, Match 8: (120M, 141W) (143E, 113A) (144L, 148L) (157Y, 261Y) (231H, 84L) 
+Source 0, Match 9: (120M, 18L) (143E, 354A) (144L, 352V) (157Y, 40Y) (231H, 7L) 
+Source 0, Match 10: (120M, 27M) (143E, 30A) (144L, 339V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 11: (120M, 340M) (143E, 355A) (144L, 352V) (157Y, 33Y) (231H, 7L) 
+Source 0, Match 12: (120M, 237M) (143E, 238A) (144L, 245V) (157Y, 72L) (231H, 256L) 
+Source 0, Match 13: (120M, 232M) (143E, 238A) (144L, 181L) (157Y, 72L) (231H, 256L) 
+Source 0, Match 14: (120M, 235W) (143E, 233A) (144L, 236V) (157Y, 61L) (231H, 58L) 
+Source 0, Match 15: (120M, 240M) (143E, 233A) (144L, 338I) (157Y, 61L) (231H, 58L) 
+Source 0, Match 16: (120M, 27M) (143E, 30A) (144L, 29V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 17: (120M, 235W) (143E, 238A) (144L, 181L) (157Y, 72L) (231H, 256L) 
+Source 0, Match 18: (120M, 237M) (143E, 233A) (144L, 339V) (157Y, 61L) (231H, 58L) 
+Source 0, Match 19: (120M, 218L) (143E, 159A) (144L, 162V) (157Y, 271L) (231H, 84L) 
+Source 0, Match 20: (120M, 167M) (143E, 159A) (144L, 160L) (157Y, 84L) (231H, 271L) 
+Source 0, Match 21: (120M, 240M) (143E, 233A) (144L, 32I) (157Y, 61L) (231H, 58L) 
+Source 0, Match 22: (120M, 27M) (143E, 30A) (144L, 341L) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 23: (120M, 240M) (143E, 238A) (144L, 245V) (157Y, 256L) (231H, 72L) 
+Source 0, Match 24: (120M, 232M) (143E, 30A) (144L, 341L) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 25: (120M, 217M) (143E, 159A) (144L, 162V) (157Y, 271L) (231H, 84L) 
+Source 0, Match 26: (120M, 237M) (143E, 233A) (144L, 236V) (157Y, 61L) (231H, 58L) 
+Source 0, Match 27: (120M, 237M) (143E, 238A) (144L, 236V) (157Y, 256L) (231H, 72L) 
+Source 0, Match 28: (120M, 341L) (143E, 30A) (144L, 339V) (157Y, 356Y) (231H, 362L) 
+Source 0, Match 29: (120M, 167M) (143E, 161A) (144L, 162V) (157Y, 249S) (231H, 256L) 
